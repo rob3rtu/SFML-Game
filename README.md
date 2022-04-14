@@ -1,3 +1,13 @@
+# Intro
+
+Codul scris de mine se gaseste in src/Main.cpp. Pentru rulare am folosit comanda Build and Run din VSCode (cmd+shift+b/ctrl+shift+b). 
+Am folosit o versiune de pe github compatibila cu VSCode.
+
+# Game story
+
+There is a duck, a hedgehog and a timer. The duck have 10 seconds to chatch the hog. The duck move with WASD, the hog with Arrows.
+
+
 # sfml-vscode-boilerplate
 
 A cross-platform [SFML](https://www.sfml-dev.org) 2.5.1 & C++17 build environment for [Visual Studio Code](https://code.visualstudio.com/)
